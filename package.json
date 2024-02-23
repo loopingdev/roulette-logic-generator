@@ -1,0 +1,14 @@
+{
+  "name": "roulette-logic-generator",
+  "version": "1.0.0",
+  "description": "The Roulette Logic npm Package is a lightweight and easy-to-use Node.js module that provides essential functionalities for simulating a roulette game. This package is designed to assist developers in creating applications or games that involve roulette mechanics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "roulette"
+  ],
+  "author": "loopingdev",
+  "license": "MIT"
+}
